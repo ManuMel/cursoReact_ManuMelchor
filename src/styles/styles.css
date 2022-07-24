@@ -11,15 +11,15 @@ body{
     background-color: #404040;
 }
 
-nav{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    background-color: black;
-    color: green;
-    padding: 1rem 4rem;
+.nav{
+    background-color: black;   
 }
 
-a {
+.nav a {
     color: greenyellow;
+}
+
+.textColor {
+    color: white;
+    
 }

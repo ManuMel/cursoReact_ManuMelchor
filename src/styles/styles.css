@@ -8,7 +8,7 @@
 }
 
 body{
-    background-color: #404040;
+    background-color: #fafafa;
 }
 
 .nav{
@@ -19,7 +19,7 @@ body{
     color: greenyellow;
 }
 
-.textColor {
-    color: white;
-    
+.styleCart {
+    background-color: white;
+    width: 20%;
 }
